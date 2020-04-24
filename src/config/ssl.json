@@ -1,0 +1,9 @@
+{
+    "domains":
+    [
+        ""
+    ],
+    "autoGenerate": true,
+    "renewUponRestart": false,
+    "renewUponExpiry": true
+}
