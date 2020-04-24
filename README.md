@@ -1,4 +1,4 @@
-# Cluster
+# Cluster (v0.1.0-alpha)
 
 Cluster is an open-source Node.js forum server. It provides users with a modern, quick, easy to use server that hosts a forum with a great design, easy configuration and an extensive range of API features.
 
